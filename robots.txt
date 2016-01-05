@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.imsparsh.com/sitemap.txt
